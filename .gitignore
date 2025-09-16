@@ -16,8 +16,8 @@ __pycache__/
 
 # Data & results
 data/**/*.h5
-results/**/**
-logging/**/**
+results/**
+logging/**
 *.csv
 
 # Plots/figures

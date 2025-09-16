@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual env
+.venv/
+.env/
+.env.*
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Data & results
+data/**/*.h5
+results/**
+logging/**
+*.csv
+
+# Plots/figures
+*.png
+*.svg
+*.pdf
